@@ -21,6 +21,10 @@
   overflow: hidden;
 }
 
+.portfolio__item-image video {
+  width: 100%;
+}
+
 .portfolio__item h3 {
   margin: 1.2rem 0rem 2rem;
 }
