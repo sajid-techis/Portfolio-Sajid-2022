@@ -9,10 +9,15 @@ If you created something awesome and want to contribute then feel free to open a
 
 # Sections
 ✔️ Summary and About me
+
 ✔️ Skills
+
 ✔️ Education
+
 ✔️ Work Experience
+
 ✔️ Projects
+
 ✔️ Github Profile
 
 # Getting Started
