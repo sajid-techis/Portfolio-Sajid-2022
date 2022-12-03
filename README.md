@@ -49,9 +49,15 @@ For adding emoji 😃 into the texts in Portfolio.js, use the emoji() function a
 
 # Technologies Used
 React
+
 reactstrap
+  
 react-reveal
+  
 react-lottie
+  
 react-easy-emoji
+  
 react-headroom
+  
 color-thief
