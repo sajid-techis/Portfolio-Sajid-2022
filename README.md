@@ -5,7 +5,7 @@ But if you want to contribute and make this much better for other developer have
 
 If you created something awesome and want to contribute then feel free to open an pull request.
 
-# Check [Live Demo]()
+# Check [Live Demo](https://bhatsajid.netlify.app)
 
 # Sections
 ✔️ Summary and About me
