@@ -46,7 +46,7 @@ const data = [
     video: twitterClone,
     title: "Twitter Clone",
     github: "https://github.com/sajid-techis/Sajid-TwitterClone",
-    demo: "https://sajid-twitterclone.sajid-techis.repl.co/",
+    demo: "https://twitter-clone-g2qr.onrender.com/",
   },
 ];
 
